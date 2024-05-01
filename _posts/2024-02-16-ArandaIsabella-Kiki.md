@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Kiki Deliever Service: The Millennial Starving Artist”
+title: Kiki Deliever Service: The Millennial Starving Artist
 excerpt: “College students relating to Kiki and her burnouts”
 author: isabella-aranda
 ---

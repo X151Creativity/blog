@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Knots Blog"
-exerpt: "The Story 'Knots' describes how the act of tying knots relates to our lives.
+exerpt: "The Story 'Knots' describes how the act of tying knots relates to our lives."
 author: violette-tallitsch
 pullquote: 
 ---
